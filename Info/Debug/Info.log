@@ -1,0 +1,8 @@
+﻿  Process "info.y" bison file
+  Process "info.l" flex file
+  info.c
+  info.flex.c
+  info.tab.c
+info.tab.c(1289): warning C4013: “yylex”未定义；假设外部返回 int
+  正在生成代码...
+  Info.vcxproj -> D:\Docs\编译系统\Info\Debug\Info.exe

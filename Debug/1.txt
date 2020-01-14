@@ -1,0 +1,4 @@
+Info ::= SEQUENCE {
+ a     INTEGER(0..10),
+ b     INTEGER(0..20)
+}
